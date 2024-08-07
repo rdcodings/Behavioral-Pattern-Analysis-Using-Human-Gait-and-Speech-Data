@@ -79,3 +79,5 @@ As this is a university academic project still under development, the details ar
    ```
 
 Through this project, we aim to unlock the secrets of how emotions manifest in our movements and voices, ultimately using this knowledge to enhance various aspects of life and health. Our journey begins by collecting and preparing data on how people walk and express themselves, capturing the dance of everyday life. We're not just interested in the technical details but also in how these details come together to paint a richer, more complete picture of human behavior.
+
+Author - *Rajarshi Das*
