@@ -1,6 +1,7 @@
 # Behavioral-Pattern-Analysis-Using-Human-Gait-and-Speech-Data
 **Project Summary: Study and Mapping of 1D and 2D Datasets for Behavioural Pattern Analysis**
-![Behaviouiral Pattern Analysis]()
+
+![Behaviouiral Pattern Analysis](https://github.com/rdcodings/Behavioral-Pattern-Analysis-Using-Human-Gait-and-Speech-Data/blob/24bb7904c44bba44ea8e258a023a65b4c5e11611/Title.jpg)
 
 Have you ever noticed how your walk changes when you're happy, sad, or angry? Or how your voice gets higher or faster when you're excited? The way we move and talk is like a secret language, revealing hidden stories about our emotions, intentions, and even health. Imagine this: your walk is a graceful dance, each step a brushstroke painting a picture of your mood. At the same time, your voice is a musical piece, the pitch and pace reflecting the symphony of emotions playing inside you. Traditionally, researchers have studied these movements and sounds separately, like looking at just one piece of a puzzle. But what if we put the whole puzzle together? That's where our project comes in.
 
